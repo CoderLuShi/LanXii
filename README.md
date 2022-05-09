@@ -1,5 +1,4 @@
-### Hi there 👋
-**LanXii/LanXii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋
 
 Here are some ideas to get you started:
 
@@ -11,3 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+![](https://github-readme-stats.vercel.app/api/?username=LanXii&count_private=true&show_icons=true&theme=dracula)
